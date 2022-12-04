@@ -1,0 +1,1 @@
+.card-container:where(.astro-LTLD5I4L){display:flex;flex-direction:column;gap:1rem;align-items:flex-start}.card:where(.astro-LTLD5I4L){border:solid black;padding:10px;margin:5px;border-radius:5px}.card:where(.astro-LTLD5I4L).show{transform:translate(0);opacity:1}#map:where(.astro-LTLD5I4L){height:400px;width:100%}

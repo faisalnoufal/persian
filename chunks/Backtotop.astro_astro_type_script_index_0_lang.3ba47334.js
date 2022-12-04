@@ -1,0 +1,1 @@
+document.addEventListener("alpine:init",()=>{Alpine.data("topBtn",()=>({scrolltoTop(){document.body.scrollTop=0,document.documentElement.scrollTop=0}}))});const o=document.getElementById("topButton");window.onscroll=()=>{document.body.scrollTop>20||document.documentElement.scrollTop>20?o.classList.remove("hidden"):o.classList.add("hidden")};
